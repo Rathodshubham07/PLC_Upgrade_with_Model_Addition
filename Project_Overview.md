@@ -1,10 +1,3 @@
-# PLC_Upgrade_with_Model_Addition
-Migration of Siemens PLCs from S7-300 to S7-1500 across three production lines (Front Wall, Sub-Structure, Main Framing). Upgraded software from Simatic Manager to TIA Portal, added model enhancements, and integrated fail-safe and robotic systems for improved performance. 
-
-## **Project Title**
-
-PLC Hardware (S7-300 CPU to S7-1500 CPU) and Software Migration (Simatic Manager SP5.6 to TIA Portal V19) with Model Addition
-
 ## **Overview / Abstract**
 
 This project involved the migration of both hardware and software for three production lines over a duration of approximately two months. The migration included upgrading the PLC systems from Siemens S7-300 to S7-1500 CPUs and transitioning the programming environment from Simatic Manager to TIA Portal. Additionally, a model enhancement was implemented to improve system functionality and integration.
